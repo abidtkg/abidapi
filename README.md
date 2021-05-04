@@ -1,5 +1,3 @@
 # Python RESTful API
 
-    Framework: Flask
-    Database: SQL
-    Defination: OpenAPI3
+    RUN: python3 app.py
